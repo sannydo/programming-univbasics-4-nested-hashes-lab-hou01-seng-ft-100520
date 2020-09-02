@@ -83,7 +83,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    :adding_matz.push to programmer_hash
+    programmer_hash.push [:adding_matz]
 
 end
 

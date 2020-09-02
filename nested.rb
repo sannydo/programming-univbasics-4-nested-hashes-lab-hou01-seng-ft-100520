@@ -83,7 +83,8 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    programmer_hash.push[:adding_matz] = {:known_for => "Ruby", :languages => ""
+    programmer_hash.push[:adding_matz] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
+    programmer_hash
     
   new_array
 

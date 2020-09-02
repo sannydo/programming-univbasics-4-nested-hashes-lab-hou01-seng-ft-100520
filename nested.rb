@@ -20,6 +20,7 @@ def hopper
     }
 
 end
+programmer_hash
 
 def alan_kay_is_known_for
   programmer_hash = 
